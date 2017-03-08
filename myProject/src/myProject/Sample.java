@@ -16,4 +16,8 @@ public class Sample {
 	public void walk(){
 		System.out.println("walking...");
 	}
+	
+	public void jump(){
+		System.out.println("jumping...");
+	}
 }
