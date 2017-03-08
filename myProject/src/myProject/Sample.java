@@ -8,4 +8,7 @@ public class Sample {
 	public void run(){
 		System.out.println("running....");
 	}
+	public void jump(){
+		System.out.println("jumping...");
+	}
 }
