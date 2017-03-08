@@ -13,4 +13,7 @@ public class Sample {
 	public void run(){
 		System.out.println("running....");
 	}
+	public void walk(){
+		System.out.println("walking...");
+	}
 }
