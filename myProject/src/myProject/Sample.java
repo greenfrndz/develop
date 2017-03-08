@@ -20,4 +20,8 @@ public class Sample {
 	public void jump(){
 		System.out.println("jumping...");
 	}
+	
+	public String getStr(){
+		return "name";
+	}
 }
