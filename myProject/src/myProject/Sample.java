@@ -9,4 +9,8 @@ public class Sample {
 	public void play(){
 		System.out.println("playing...");
 	}
+	
+	public void run(){
+		System.out.println("running....");
+	}
 }
