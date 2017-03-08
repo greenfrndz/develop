@@ -10,14 +10,15 @@ public class Sample {
 		System.out.println("playing...");
 	}
 	
-	public void run(){
-		System.out.println("running....");
-	}
 	public void walk(){
 		System.out.println("walking...");
 	}
 	
 	public void jump(){
 		System.out.println("jumping...");
+	}
+	
+	public String getStr(){
+		return "name";
 	}
 }
